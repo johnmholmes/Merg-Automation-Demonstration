@@ -1,5 +1,5 @@
 #welcome to the Merg Automation Sig demonstration code by j holmes
-# This will only run once unless the last line of code"MergAuto1().statrt()"  is commented out#
+
 import jarray
 import jmri
 
